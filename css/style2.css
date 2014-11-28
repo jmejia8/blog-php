@@ -622,3 +622,16 @@ clear:both;
 	padding: 5px;
 	border: 1px solid black;
 }
+.input-buscar{
+	margin-left: 150px;
+	background: transparent;
+	padding: 3px;
+	border: 1px solid blue;
+	width: 250px;
+	color: #D1E8FF;
+}
+.boton-buscar{
+	background: #99BDE1;
+	padding: 3px;
+	border: 1px solid #366A9D;
+}

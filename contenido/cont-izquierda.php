@@ -6,7 +6,7 @@
 <?
 $sql=mysql_query("SELECT * FROM post ORDER BY id DESC");
 $n = mysql_num_rows($sql);
-if (isset($_GET['pag'])) {
+if (isset($_GET['pag']) && $_GET['pag']>0) {
     $pag = intval(quitar($_GET['pag']))-1;
 }else{
     $pag = 0;
