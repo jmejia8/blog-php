@@ -47,7 +47,7 @@ $row=mysql_fetch_array($sql);
             <div class="clear"></div>
             <!-- comentario -->
             <div class="title">
-                <span class="title_icon"><img src="images/bullet1.gif" alt="" title="" />
+                <span class="title_icon"><img src="images/bullet2.png" alt="" title="" />
                 </span>Comentarios
             </div>
             <div class="clear"></div>

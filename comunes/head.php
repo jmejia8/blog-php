@@ -7,7 +7,7 @@ require_once 'comunes/config.php';
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Book Store</title>
+<title>Programación Time | Blog</title>
 <link rel="stylesheet" type="text/css" href="css/style2.css">
 <!-- <link rel="stylesheet" type="text/css" href="temas/tutorial-php.css" /> -->
 <script type="text/javascript" src="js/comentar.js"></script>

@@ -8,7 +8,7 @@ $sql=mysql_query("SELECT * FROM post WHERE etiquetas='$tag'");
 $sql2=mysql_query("SELECT nombre FROM etiquetas WHERE id=$tag");
 $row=mysql_fetch_array($sql2);
 ?>
-<div class="title"><span class="title_icon"><img src="images/bullet1.gif" alt="" title="" /></span><? echo $row['nombre']; ?></div>
+<div class="title"><span class="title_icon"><img src="images/bullet1.png" alt="" title="" /></span><? echo $row['nombre']; ?></div>
 <div class="clear"></div>
 <?
 $n = mysql_num_rows($sql);
