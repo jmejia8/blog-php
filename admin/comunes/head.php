@@ -31,7 +31,7 @@
         <!--<link rel="stylesheet" type="text/css" href="src/css/theme-graphite.css" media="screen" />-->
         
 		<!-- JQuery engine script-->
-		<script type="text/javascript" src="src/jquery-1.3.2.min.js" tppabs="http://www.xooom.pl/work/magicadmin/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="src/jquery-1.6.3.min.js" tppabs="http://www.xooom.pl/work/magicadmin/js/jquery-1.6.3.min.js"></script>
         
 		<!-- JQuery WYSIWYG plugin script -->
 		<script type="text/javascript" src="src/jquery.wysiwyg.js" tppabs="http://www.xooom.pl/work/magicadmin/js/jquery.wysiwyg.js"></script>
